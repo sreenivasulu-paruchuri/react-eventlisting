@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "imgPath": "images/Rectangle 4.png",
+      "name": "Understanding Color Theory:The color Wheel and Finding",
+      "date": "21/09/2020",
+      "tickets_available": 0
+    },
+    {
+      "id": 2,
+      "imgPath": "images/Rectangle 6.png",
+      "name": "RGD Design Thinkers",
+      "date": "21/09/2020",
+      "tickets_available": 11
+    },
+    {
+      "id": 3,
+      "imgPath": "images/Rectangle 8.png",
+      "name": "What Design Can Do",
+      "date": "21/09/2020",
+      "tickets_available": 206
+    },
+    {
+      "id": 4,
+      "imgPath": "images/Rectangle 4.png",
+      "name": "Perth UX Camp",
+      "date": "21/09/2020",
+      "tickets_available": 47
+    },
+    {
+      "id": 5,
+      "imgPath": "images/Rectangle 11.png",
+      "name": "Sofia Design",
+      "date": "21/09/2020",
+      "tickets_available": 66
+    },
+    {
+      "id": 6,
+      "imgPath": "images/Rectangle 15.png",
+      "name": "Design Indaba Conference",
+      "date": "21/09/2020",
+      "tickets_available": 84
+    },
+    {
+      "id": 7,
+      "imgPath": "images/Rectangle 17.png",
+      "name": "TYPO Berlin",
+      "date": "21/09/2020",
+      "tickets_available": 4
+    },
+    {
+      "id": 8,
+      "imgPath": "images/Rectangle 19.png",
+      "name": "AIGA Design Conference",
+      "date": "21/09/2020",
+      "tickets_available": 16
+    }
+  ]
+}
